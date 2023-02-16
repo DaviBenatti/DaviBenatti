@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Benatti;I'm+17+years+old;I'm+from+Brazil;I+study+in+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaviBenatti&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaviBenatti&bg_color=0d1117&color=1E90FF&line=00BFFF&point=87CEFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=My+Social+Medias)](https://git.io/typing-svg)
