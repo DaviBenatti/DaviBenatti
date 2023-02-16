@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Benatti;I'm+17+years+old;I'm+from+Brazil;I+study+in+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DaviBenatti&bg_color=0d1117&color=1E90FF&line=00BFFF&point=87CEFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaviBenatti&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -17,9 +14,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_davibenatti/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DaviBenatti)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davilopesbenatti@gmail.com)
-
-
-![Davi Benatti GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviBenatti&show_icons=true&theme=dark)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Technologies+I'm+learning)](https://git.io/typing-svg)
 
